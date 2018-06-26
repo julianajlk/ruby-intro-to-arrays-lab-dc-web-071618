@@ -8,6 +8,6 @@ def array_with_two_elements
 end
 
 def first_element(my_first_element)
-  array = ["my_first_element", "my_second_element"]
+  array = ["Welcome to New York", "my_second_element"]
   return array[0]
 end

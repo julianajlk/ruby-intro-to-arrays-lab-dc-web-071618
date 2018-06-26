@@ -11,3 +11,7 @@ def first_element(my_first_element)
   array = ["Welcome to New York", "Blank Space"]
   return array[0]
 end
+
+def third_element
+  
+end

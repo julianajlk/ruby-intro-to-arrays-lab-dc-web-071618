@@ -33,5 +33,5 @@ def last_element_with_array_methods(last_country)
 end
 
 def length_of_array(programming_languages)
-   programming_languages.lengths
+   programming_languages.length
 end
